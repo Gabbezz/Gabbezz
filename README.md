@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gabbezz, BR
-- 👀 I’m interested in html, css and javascript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Gabbezz ou só Gab mesmo. BR🇧🇷
+- 👀 Estou interessado em aprender mais sobre várias tecnologias mas princialmente html, css and javascript.
+- 🌱 Atualmente estou cursando o 1° período de ADS.
+- 💞️ Estou procurando por mais conhecimento e adoraria conversar e bater papo com todos para conhecer novas tecnologias e experiências.
+- 📫 Atualmente eu só tenho instagram mas pretendo criar uma conta no discord :)
 
 <!---
 Gabbezz/Gabbezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
